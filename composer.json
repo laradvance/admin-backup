@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/backup",
+    "name": "laradvance/admin-backup",
     "description": "Backup extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "backup"],
-    "homepage": "https://github.com/laravel-admin-extensions/backup",
+    "homepage": "https://github.com/laradvance/admin-backup",
     "license": "MIT",
     "authors": [
         {
